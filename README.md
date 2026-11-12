@@ -8,6 +8,10 @@
 
 ---
 
+## 🎥 Video
+
+[▶ Ver el video de la práctica en YouTube](https://youtube.com/shorts/iDcLxXvb7JI)
+
 ## 🤖 Bot
 
 Bot de Telegram: **Reparo o Compro Equipo #** ([@ReparoCompro_Christian_bot](https://t.me/ReparoCompro_Christian_bot))
